@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFF8F6F3</color>
+    <color name="on_bg">#FF1C1B1F</color>
+    <color name="muted">#FF737373</color>
+
+    <!-- 卡片底色(低饱和度) -->
+    <color name="card_kazumi">#FFE8F0FE</color>
+    <color name="card_venera">#FFFFF3E0</color>
+    <color name="card_easycopy">#FFE8F5E9</color>
+
+    <!-- 图标圆圈底色 -->
+    <color name="card_kazumi_icon_bg">#FFD2E3FC</color>
+    <color name="card_venera_icon_bg">#FFFFE0B2</color>
+    <color name="card_easycopy_icon_bg">#FFC8E6C9</color>
+
+    <color name="primary">#FF5B7FFF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+</resources>
